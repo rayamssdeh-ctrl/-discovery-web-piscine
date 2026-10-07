@@ -1,0 +1,17 @@
+commit ece67de5995603308ce35ffac0f66236d41595d2
+Author: rayamssdeh <rayamssdeh@gmail.com>
+Date:   Wed Oct 7 03:17:41 2026 -0400
+
+    Update repo_url and git active remote
+
+commit 789ff5f2fdae04a974133a2336ad74cb998cc79a
+Author: rayamssdeh <rayamssdeh@gmail.com>
+Date:   Wed Oct 7 02:13:38 2026 -0400
+
+    Create hello.txt
+
+commit bae1748d925b10cc7f4f2c9dc9a9a5cacae9fd73
+Author: rayamssdeh <rayamssdeh@gmail.com>
+Date:   Mon Oct 5 03:42:19 2026 -0400
+
+    Initial commit for ex02
